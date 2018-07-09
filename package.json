@@ -1,0 +1,15 @@
+{
+  "name": "react-app-standalone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wesley S. Araújo",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4"
+  }
+}
